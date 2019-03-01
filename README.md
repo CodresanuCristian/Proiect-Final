@@ -1,6 +1,6 @@
 # RC CAR
 
-#COMPONENTS: 
+Components: 
 -
 -Arduino UNO        x 1
 
@@ -30,5 +30,5 @@
 
 -ESC                x 1
 
-#ABOUT THIS PROJECT:
+About this project:
 -

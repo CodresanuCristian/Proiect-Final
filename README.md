@@ -1,8 +1,8 @@
 # RC CAR
 
 Components: 
-
 -Arduino UNO        x 1
+
 -Arduino Mega       x 1
 -Joysticks          x 2
 -Buttons            x 3

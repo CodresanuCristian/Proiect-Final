@@ -1,7 +1,7 @@
 # RC CAR
 
-COMPONENTS: 
-
+#COMPONENTS: 
+-
 -Arduino UNO        x 1
 
 -Arduino Mega       x 1

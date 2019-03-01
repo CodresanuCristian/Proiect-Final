@@ -1,6 +1,7 @@
 # RC CAR
 
-#Components: 
+Components: 
+
 -Arduino UNO        x 1
 -Arduino Mega       x 1
 -Joysticks          x 2
@@ -16,5 +17,5 @@
 -Servo Motor        x 1
 -ESC                x 1
 
-#About this project
+About this project
 j
